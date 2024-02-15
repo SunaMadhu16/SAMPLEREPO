@@ -1,0 +1,26 @@
+From 461e0df478ad0afe93cc13a96e47a2d66d892475 Mon Sep 17 00:00:00 2001
+From: SunaMadhu16 <159513282+SunaMadhu16@users.noreply.github.com>
+Date: Thu, 15 Feb 2024 13:16:57 +0530
+Subject: [PATCH 2/2] commit the 2nd changes
+
+---
+ Sample.txt | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+diff --git a/Sample.txt b/Sample.txt
+index f683596..29ced65 100644
+--- a/Sample.txt
++++ b/Sample.txt
+@@ -13,3 +13,8 @@ This is just a sample text file. Feel free to replace this content with your own
+ 
+ Line number 1
+ Line number 2
++
++
++
++Line number 3
++Line number 4
+\ No newline at end of file
+-- 
+2.43.0.windows.1
+
